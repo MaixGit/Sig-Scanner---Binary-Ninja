@@ -32,6 +32,10 @@ A sidebar plugin for Binary Ninja that provides IDA-style byte pattern signature
 
 ## Installation
 
+### Plugin Manager (recommended)
+Search for **Sig Scanner** in the Binary Ninja Plugin Manager and install directly.
+
+### Manual
 Clone this repo into your Binary Ninja plugins directory as `sigscanner`:
 
 **Windows:**
